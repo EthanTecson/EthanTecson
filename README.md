@@ -6,7 +6,7 @@
 
 Get in touch with me: 
 
-![[LinkedIn](https://www.linkedin.com/in/ethan-tecson-351227204/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![[LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/ethan-tecson-351227204/))
 ![tecson_e1@denison.edu](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
