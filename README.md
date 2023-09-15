@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey there 👋 My name is Ethan Tecson 
+<u></u>
+| Coding👨🏻‍💻 | Lifting🏋🏻 | Golf⛳️ | 
+<u></u>
+<p style="text-align: center;"> I am a second-year at Denison Univesrity majoring in Computer looking to go into software engineering after college. </p>
+
+Take a look at some of my projects here!
+
+Get in touch with me: 
+
+![[LinkedIn](https://www.linkedin.com/in/ethan-tecson-351227204/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **EthanTecson/EthanTecson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
