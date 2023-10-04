@@ -2,7 +2,7 @@
 <u></u>
 | Coding👨🏻‍💻 | Lifting🏋🏻 | Golf⛳️ | 
 <u></u>
-<p style="text-align: center;"> I am a second-year at Denison Univesrity majoring in Computer looking to go into software engineering after college. </p>
+<p style="text-align: center;"> I am a second-year at Denison University majoring in Computer looking to go into software engineering after college. </p>
 
 Get in touch with me: 
 
