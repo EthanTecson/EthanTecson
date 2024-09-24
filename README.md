@@ -4,6 +4,9 @@
 <u></u>
 <p style="text-align: center;"> I am a third-year at Denison University majoring in Computer looking to to become the best software engineer I can be! </p>
 
+![](./43 Ethan Tecson_ET2.jpeg)
+
+
 Get in touch with me: 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-tecson-351227204/)
