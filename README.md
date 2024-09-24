@@ -15,7 +15,7 @@ Get in touch with me:
 
 
 
-Take a look at some of my projects here!
+Take a look at some of my projects here on my profile!
 
 <!--
 **EthanTecson/EthanTecson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
