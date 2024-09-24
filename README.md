@@ -4,6 +4,8 @@
 <u></u>
 <p style="text-align: center;"> I am a third-year at Denison University majoring in Computer looking to to become the best software engineer I can be! </p>
 
+<img src="https://github.com/user-attachments/assets/e9c97540-2ff6-4fc4-b3a2-666041c6d595" alt="Tecson_Circle 2" width="500"/>
+
 
 Get in touch with me: 
 
